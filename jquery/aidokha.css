@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color: #633a6c;
+}
+#textarea{
+    margin-top: 50px;
+    color: darkolivegreen;
+
+}
+#span{
+    color: #604624;
+}
+#btn1{
+    margin-top: 50px;
+    margin-right: 10px;
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #c3e2ef;
+}
+input[type=button] {
+    background-color: #2a4e62;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
